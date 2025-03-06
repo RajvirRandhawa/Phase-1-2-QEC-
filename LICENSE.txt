@@ -1,0 +1,44 @@
+﻿LICENSE (For Phase 1 & 2 – Quantum Computation Model)
+Copyright © 2025 Rajvir Singh (Rajvir Randhawa). All Rights Reserved.
+1. Grant of License
+This license applies to Phase 1 and Phase 2 of my research on Quantum Computation and Quantum Gravity.
+* The content in this repository, including but not limited to mathematical equations, theoretical models, algorithms, and computational frameworks, is protected under Indian and international intellectual property laws.
+* No part of this research may be used, reproduced, distributed, modified, or incorporated into any academic, governmental, institutional, commercial, or non-commercial project without explicit written permission from the author.
+* Phases 3 & 4 exist but are not included in this repository—any unauthorized attempt to infer, reconstruct, or claim ownership of them is explicitly prohibited.
+________________
+
+
+2. Legal Protections & Applicable Laws
+This work is protected under the following laws and international agreements:
+Indian Intellectual Property Laws
+* The Indian Copyright Act, 1957 (Amended 2012) – Grants exclusive rights to the author over reproduction, modification, and distribution of creative works, ensuring full copyright protection.
+* The Patents Act, 1970 (Amended 2005) – Prevents unauthorized commercial or institutional use of the research for patent claims or monetization without explicit consent.
+* The Information Technology Act, 2000 – Prohibits cyber theft, unauthorized extraction, and AI-based data mining of proprietary research.
+* The Indian Contract Act, 1872 – Binds any party entering into an agreement regarding this research to legal obligations and liability.
+International Intellectual Property Laws
+* The Berne Convention for the Protection of Literary and Artistic Works (1886) – Recognizes and enforces copyright protection across 181 member countries.
+* The Trade-Related Aspects of Intellectual Property Rights (TRIPS) Agreement (1995) – Prevents unauthorized use of intellectual property in all World Trade Organization (WTO) member states.
+* The Universal Copyright Convention (1952) – Ensures international copyright recognition and legal protection.
+* The WIPO Copyright Treaty (1996) – Provides legal mechanisms for enforcing copyright protection in digital and AI-assisted environments.
+________________
+
+
+3. Restrictions & Prohibited Uses
+The following actions are strictly prohibited:
+* Unauthorized reproduction, distribution, or modification of any portion of this research.
+* Use in academic institutions, governmental agencies, private companies, or open-source projects without prior written consent.
+* Claiming ownership, authorship, or co-authorship of this work in any form.
+* Reverse-engineering, decompiling, or using AI-based extraction tools to reconstruct Phase 3 & 4.
+* Commercial exploitation, including patents, monetization, or intellectual property claims, without written agreement from the author.
+* Using this work for quantum computing development without official approval.
+Violation Consequences
+* Any attempt to violate these terms will result in legal action under Indian jurisdiction, including financial penalties, injunctions, and civil or criminal prosecution.
+* Institutions, organizations, or government entities attempting to claim this research without consent will face immediate legal consequences in both Indian and international courts.
+________________
+
+
+4. Attribution & Permissions
+* Proper citation is required for academic discussions or references.
+* Explicit written approval is mandatory for any use beyond referencing.
+* For official research inquiries, collaboration requests, or verification, contact:
+   * [+91 99159 59924 / iamrajvirsingh@gmail.com]
